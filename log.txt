@@ -1,7 +1,1 @@
-vfgdfgd
-this is by myapp2
-<<<<<<< HEAD
-kdddlak
-=======
-kfmkdfgkdfkl
->>>>>>> bca1bc4889ed075476496b4801fe30681ab6db3c
+this is by myappsample
